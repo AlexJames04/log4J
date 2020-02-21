@@ -1,0 +1,8 @@
+16:27:36.959 [main] DEBUG betaPackage.demo1 - I'm debugging
+16:27:36.962 [main] INFO  betaPackage.demo1 - Object is present
+16:27:36.962 [main] ERROR betaPackage.demo1 - Object is not present
+16:27:36.962 [main] FATAL betaPackage.demo1 - I'm not a fatel
+16:28:21.096 [main] DEBUG betaPackage.demo1 - I'm debugging
+16:28:21.098 [main] INFO  betaPackage.demo1 - Object is present
+16:28:21.098 [main] ERROR betaPackage.demo1 - Object is not present
+16:28:21.098 [main] FATAL betaPackage.demo1 - I'm not a fatel
